@@ -3,7 +3,7 @@ The apllication enable end customers to browse the platform to get access to mov
 languages, and genres.
 
 # System Diagram
-
+![Diagram](https://github.com/online-movie-ticket-booking-backend/.github/blob/main/online-movie-ticket-booking-backend.jpg?raw=true)
 
 # 🧰 Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
